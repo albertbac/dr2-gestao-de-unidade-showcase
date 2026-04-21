@@ -9,15 +9,15 @@
 
 ```mermaid
     flowchart TD
-        S1["Collect operational inputs"]
-    S2["Review indicators"]
-    S3["Prioritize actions"]
-    S4["Track execution and follow-up"]
-    S5["Reassess in the next cycle"]
-    S1 --> S2
-    S2 --> S3
-    S3 --> S4
-    S4 --> S5
+        W1["Collect operational inputs"]
+    W2["Review indicators"]
+    W3["Prioritize actions"]
+    W4["Track execution and follow-up"]
+    W5["Reassess in the next cycle"]
+    W1 --> W2
+    W2 --> W3
+    W3 --> W4
+    W4 --> W5
 ```
 
 ## Publication boundary
